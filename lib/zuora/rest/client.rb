@@ -1,6 +1,5 @@
 # encoding: utf-8
 require 'faraday'
-require 'faraday_middleware'
 require 'json'
 
 module Zuora

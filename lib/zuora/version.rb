@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 module Zuora
-  VERSION = '0.7.0'.freeze
+  VERSION = '0.7.1'.freeze
 end
